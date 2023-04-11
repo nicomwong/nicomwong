@@ -1,6 +1,7 @@
 ### Hey!
 
 I'm a soon-to-start (junior) DevOps engineer at Advocates for Human Potential (AHP).
+I previously worked at Amazon as a backend software engineer.
 I am currently interested in learning the Cloud, tool development, Go, and Python.
 
 <!--
