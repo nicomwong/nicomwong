@@ -4,6 +4,8 @@ I'm a soon-to-start (junior) DevOps engineer at Advocates for Human Potential (A
 I previously worked at Amazon as a backend software engineer.
 I am currently interested in learning the Cloud, tool development, Go, and Python.
 
+You can reach me at [nicowong8@gmail.com](mailto:nicowong8@gmail.com).
+
 <!--
 **nicomwong/nicomwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
