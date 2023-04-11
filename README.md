@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey!
+
+I'm a soon-to-start (junior) DevOps engineer at Advocates for Human Potential (AHP).
+I am currently interested in learning the Cloud, tool development, Go, and Python.
 
 <!--
 **nicomwong/nicomwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
