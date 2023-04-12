@@ -6,6 +6,8 @@ I am currently interested in learning the Cloud, tool development, Go, and Pytho
 
 You can reach me at [nicowong8@gmail.com](mailto:nicowong8@gmail.com).
 
+[Here](https://github.com/nicomwong/resume-pdf/blob/main/Nico_Wong_Engineer_Resume.pdf) is my resumé.
+
 <!--
 **nicomwong/nicomwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
