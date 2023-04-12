@@ -1,8 +1,9 @@
 ### Hey!
 
-I'm a soon-to-start (junior) DevOps engineer at Advocates for Human Potential (AHP).
-I previously worked at Amazon as a backend software engineer.
-I am currently interested in learning the Cloud, tool development, Go, and Python.
+I'm a junior DevOps engineer at Advocates for Human Potential.
+I previously worked as a backend software engineer at Amazon for the e-commerce website.
+I am currently interested in learning about cloud computing & infrastructure and software engineering tool development.
+I am also looking to learn Python and GoLang!
 
 You can reach me at [nicowong8@gmail.com](mailto:nicowong8@gmail.com).
 
