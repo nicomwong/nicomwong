@@ -8,7 +8,7 @@ I am also looking to learn Python and GoLang!
 You can reach me at [nicowong8@gmail.com](mailto:nicowong8@gmail.com).\
 [LinkedIn](https://www.linkedin.com/in/nicomwong/)
 
-[Here is my resumé](https://github.com/nicomwong/resume-pdf/blob/main/Nico_Wong_Engineer_Resume.pdf)
+[RESUMÉ](https://github.com/nicomwong/resume-pdf/blob/main/Nico_Wong_Engineer_Resume.pdf)
 
 <!--
 **nicomwong/nicomwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
