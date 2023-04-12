@@ -6,8 +6,7 @@ I am currently interested in learning about cloud computing & infrastructure and
 I am also looking to learn Python and GoLang!
 
 You can reach me at [nicowong8@gmail.com](mailto:nicowong8@gmail.com).\
-[LinkedIn](https://www.linkedin.com/in/nicomwong/)
-
+[LINKEDIN](https://www.linkedin.com/in/nicomwong/)\
 [RESUMÉ](https://github.com/nicomwong/resume-pdf/blob/main/Nico_Wong_Engineer_Resume.pdf)
 
 <!--
