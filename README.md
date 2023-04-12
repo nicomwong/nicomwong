@@ -1,6 +1,6 @@
 ### Hello
 
-I work as a junior DevOps engineer for the company [Advocates for Human Potential](https://www.ahpnet.com/) which
+I work as a junior DevOps engineer for the company [Advocates for Human Potential](https://www.ahpnet.com/), which
 >assists organizations of all sizes in achieving our collective goal of helping our most vulnerable populations lead full and productive lives.
 
 I previously worked as a backend software engineer at Amazon for the e-commerce website.\
