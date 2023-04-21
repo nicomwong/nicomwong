@@ -3,9 +3,9 @@
 I work as a junior DevOps engineer for the company [Advocates for Human Potential](https://www.ahpnet.com/), which
 >assists organizations of all sizes in achieving our collective goal of helping our most vulnerable populations lead full and productive lives.
 
-I previously worked as a backend software engineer at Amazon for the e-commerce website.\
-I am currently interested in learning about cloud computing & infrastructure and software engineering tool development.\
-I am also looking to learn Python and GoLang!
+I previously worked as a software engineer at Amazon on the backend of the e-commerce website.\
+I am currently interested in learning about cloud computing & infrastructure.\
+I am also looking to learn GoLang.
 
 You can reach me at [nicowong8@gmail.com](mailto:nicowong8@gmail.com).\
 [LINKEDIN](https://www.linkedin.com/in/nicomwong/)\
