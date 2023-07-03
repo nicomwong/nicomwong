@@ -1,5 +1,5 @@
 Hey! I'm a DevOps Engineer at [Advocates for Human Potential](https://www.ahpnet.com/).\
-Previously, I was a Software Engineer working at Amazon on a backend graph database for the e-commerce website [amazon.com](https://www.amazon.com/).
+Previously, I was a Software Engineer working at Amazon where I contributed to the development of a backend graph database management system. The system supported product metadata and ontology on the [amazon.com](https://www.amazon.com/) e-commerce website.
 
 My favorite hobby is working on the terminal!
 
