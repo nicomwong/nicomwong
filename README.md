@@ -5,4 +5,4 @@ My favorite hobby is working on the terminal!
 
 [e-mail](mailto:nicowong8@gmail.com)\
 [linkedin](https://www.linkedin.com/in/nicomwong/)\
-[resumé](https://github.com/nicomwong/resume-pdf/blob/main/Nico_Wong_Engineer_Resume.pdf)
+[resumé (possibly outdated)](https://github.com/nicomwong/resume-pdf/blob/main/Nico_Wong_Engineer_Resume.pdf)
